@@ -1,0 +1,6 @@
+{
+  "key.flightspeedmod.increase_speed": "Flight Speed Increase",
+  "key.flightspeedmod.decrease_speed": "Flight Speed Decrease",
+  "key.flightspeedmod.reset_speed": "Flight Speed Decrease Reset",
+  "category.flightspeedmod.flight_speed": "Creative Flight Speed Mod"
+}
